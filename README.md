@@ -11,13 +11,13 @@
 
 **🫶 Apart from data science I enjoy**
  
-📚 Reading: I spend my evenings devouring fictions and occasionally non fictions. https://www.goodreads.com/user/show/103047079-pradnya
+📚 Reading: I spend my evenings devouring fictions and occasionally non fictions. https://www.goodreads.com/user/show/103047079-pradnya \
 🦀 Eating seafood: I love seafood a lot. All forms of crabs are my life\
   <p>&nbsp;</p>
 
 **📫 How to reach me**
 
-⛓ https://www.linkedin.com/in/pradnya-gade-0b0663ab/
+⛓ https://www.linkedin.com/in/pradnya-gade-0b0663ab/ 
 
 <!--
 **pradnyag/pradnyag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
