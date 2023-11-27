@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Pradnya. 
 
-📊 I am a graduate student at the Queen Mary University of London pursuing my Masters in Big Data Science.
+📊 I am a data scientist working in London.
 <p>&nbsp;</p> 
 
 **🔭 I’m currently working on**
 
-🙇🏻‍♀️ My Masters dissertation in Natural Language Processing : Developing an approach to diagnose mental health issues from texts written by the patients.\
-🔧 Improving my coding skills by practicing more on Hackerrank.
+🙇🏻‍♀️ Solving real world business problems to polish my skillset\
+🔧 Improving my coding skills.
 <p>&nbsp;</p>  
 
 **🫶 Apart from data science I enjoy**
