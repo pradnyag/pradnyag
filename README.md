@@ -11,9 +11,7 @@
 
 **🫶 Apart from data science I enjoy**
  
-📚 Reading: I spend my evenings devouring fictions and occasionally non fictions. https://www.goodreads.com/user/show/103047079-pradnya \
-🦀 Eating seafood: I love seafood a lot. All forms of crabs are my life
-  <p>&nbsp;</p>
+📚 Reading: I spend my evenings devouring fictions and occasionally non fictions. 
 
 **📫 How to reach me**
 
