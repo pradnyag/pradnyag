@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Pradnya. 
 
-📊 I am a data scientist working in London.
+📊 I am a data scientist working in Mumbai.
 <p>&nbsp;</p> 
 
 **🔭 I’m currently working on**
